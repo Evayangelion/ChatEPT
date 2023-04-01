@@ -47,7 +47,7 @@ export default defineConfig({
     AstroPWA({
       base: "/",
       scope: "/",
-      includeAssets: ["favicon.svg"],
+      includeAssets: ["pig.svg"],
       registerType: "autoUpdate",
       manifest: {
         name: "ChatGPT",
